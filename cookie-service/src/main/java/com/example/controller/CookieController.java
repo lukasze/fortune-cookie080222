@@ -3,7 +3,6 @@ package com.example.controller;
 import com.example.Message;
 import com.example.controller.feign.ActivityClient;
 import com.example.controller.feign.DecisionClient;
-import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
