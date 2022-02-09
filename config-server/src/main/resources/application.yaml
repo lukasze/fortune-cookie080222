@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/lukasze/fortune-cookie.git
+          uri: file://C:/dev/fortune-cookie-repo/fortune-cookie
   application:
     name: config-server
 server:
