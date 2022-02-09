@@ -1,4 +1,4 @@
-package com.example.activityservice.main;
+package com.example.activityservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
